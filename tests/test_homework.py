@@ -1,14 +1,13 @@
-"""Calificacion"""
+"""Autograding script."""
 
 import os.path
 
 import pandas as pd  # type: ignore
-
 from homework import pregunta_01 as pregunta
 
 
 def test_01():
-    """Test 01"""
+    """Test homework"""
 
     pregunta.pregunta_01()
 
