@@ -9,8 +9,8 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 def pregunta_01():
     """
     La información requerida para este laboratio esta almacenada en el
-    archivo "input.zip" ubicado en la carpeta raíz. Descomprima este
-    archivo.
+    archivo "files/input.zip" ubicado en la carpeta raíz.
+    Descomprima este archivo.
 
     Como resultado se creara la carpeta "input" en la raiz del
     repositorio, la cual contiene la siguiente estructura de archivos:
