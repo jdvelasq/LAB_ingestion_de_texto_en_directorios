@@ -1,10 +1,9 @@
-"""
-Escriba el codigo que ejecute la accion solicitada en cada pregunta.
-"""
-
 # pylint: disable=import-outside-toplevel
 # pylint: disable=line-too-long
 # flake8: noqa
+"""
+Escriba el codigo que ejecute la accion solicitada en cada pregunta.
+"""
 
 
 def pregunta_01():
@@ -72,7 +71,3 @@ def pregunta_01():
 
 
     """
-
-
-if __name__ == "__main__":
-    pregunta_01()
